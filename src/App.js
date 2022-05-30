@@ -5,7 +5,7 @@ import Clean from './Clean'
 function App() {
   return (
     <div class="wrapper"> 
-      <Clean/>
+      <General/>
     </div>
   );
 }

@@ -5,7 +5,7 @@ export default class Header extends Component {
   render() {
     return (
 <div>
-  <nav className="main-header navbar navbar-expand-md navbar-dark navbar-black">
+  <nav className="navbar navbar-expand-md navbar-dark navbar-black">
     <div className="container">
       <a href="../../index3.html" className="navbar-brand">
         <span className="brand-text font-weight-light">Carribean Tax Solutions</span>
