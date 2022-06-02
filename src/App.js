@@ -1,11 +1,16 @@
 import './App.css';
-import General from './General';
-import Clean from './Clean'
+import Navbar from './Components/Navbar';
+import Footer from './Components/Footer';
+import MainPage from './Components/MainPage';
 
 function App() {
   return (
-    <div class="wrapper"> 
-      <General/>
+    <div className="App">
+      <div className="wrapper">
+        <Navbar />
+        <MainPage />
+        <Footer />
+      </div>
     </div>
   );
 }
