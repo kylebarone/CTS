@@ -1,3 +1,5 @@
+### This is a very very rough prototype that was put together in a very short time frame when health issues came up. I am now just returning to however it is so buggy and hurriedly designed that it instead serves a rough framework and test case that will be completely redone. In summary, this work is a rough draft that I would not classify as indicative of my programming ability or quality whatsoever.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
